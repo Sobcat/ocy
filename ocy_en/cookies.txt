@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fsocy.com	TRUE	/	FALSE	1999999999	route	e384b5fe7b7771d3f650d3e156801b2b
+fsocy.com	TRUE	/	FALSE	1999999999	visitplat	HK_fsocy.com
+fsocy.com	TRUE	/	FALSE	1999999999	PHPSESSID	2sc29pmppf4i5bht539jth52p4
+fsocy.com	TRUE	/	FALSE	1999999999	s_l	en
+fsocy.com	TRUE	/	FALSE	1999999999	s_u	0
+hk8db36e.pic30.websiteonline.cn	TRUE	/	FALSE	1999999999	route	351724d5207d2c9a8cbdc7fb58b6d660
+fsocy.com	TRUE	/	FALSE	1999999999	wp_layer_content_layer92B28999DFDA16656D7CD7FF0480FA60	%7B%22product_category%22%3A%2216%22%7D
+fsocy.com	TRUE	/	FALSE	1999999999	wp_layer_page_layer92B28999DFDA16656D7CD7FF0480FA60	1
+.baidu.com	TRUE	/	FALSE	1999999999	BAIDUID	9F9539B0E6DBEF91DDC8E9F33FB0015B:FG=1
+
